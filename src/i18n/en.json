@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Creative<span>.</span> Quality<span>.</span> Original<span>.</span>"
+  },
+  "language": {
+    "english": "English",
+    "serbian": "Serbian"
+  },
+  "messages": {
+    "success": "Language changed successfully"
+  },
+  "services": {
+    "title": "Services",
+    "description": "What we do? We are specialized in next aeries.",
+    "mainServices": {
+      "first": {
+        "title": "Development web apps",
+        "icon": "<i class='fas fa-code'></i>"
+      },
+      "second": {
+        "title": "Testing and maintenance web apps",
+        "icon": "<i class='fas fa-check-double'></i>"
+      },
+      "third": {
+        "title": "Customer support",
+        "icon": "<i class='fas fa-headset'></i>"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "What we made",
+    "description": "We made almost twenty games!"
+  },
+  "contact": {
+    "title": "Contact us",
+    "description": "Via mobile, email or visit us at office"
+  }
+}

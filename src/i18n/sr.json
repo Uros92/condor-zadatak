@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Kreativno<span>.</span> Kvalitetno<span>.</span> Originalno<span>.</span>"
+  },
+  "language": {
+    "english": "Engleski",
+    "serbian": "Srpski"
+  },
+  "messages": {
+    "success": "Uspešno promenjen jezik"
+  },
+  "services": {
+    "title": "Usluge",
+    "description": "Čime se bavimo? Specijalizirani smo za sljedeća područja.",
+    "mainServices": {
+      "first": {
+        "title": "Razvoj web aplikacija",
+        "icon": "<i class='fas fa-code'></i>"
+      },
+      "second": {
+        "title": "Testiranje i održavanje kvalitete",
+        "icon": "<i class='fas fa-check-double'></i>"
+      },
+      "third": {
+        "title": "Korisnička podrška",
+        "icon": "<i class='fas fa-headset'></i>"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Sta smo sve napravili",
+    "description": "Napravili smo preko 20 igrica!"
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "description": "Putem telefona, mejla ili nas posetite!"
+  }
+}
